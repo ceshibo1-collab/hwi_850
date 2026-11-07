@@ -1,0 +1,1 @@
+These are HWINFO config files backup
